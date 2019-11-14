@@ -1,0 +1,25 @@
+Bismillah
+Insha allah complete 
+
+registration number : 786786786
+iqbalforall@gmail.com
+google login
+
+--
+    public static int collision(List<Integer> speed, int pos) {
+    // Write your code here
+       int n=0;
+       if(pos<0 || pos>=speed.size()){
+           return 0;
+       }
+       int p = speed.get(pos);
+       int t = 0;
+       for(int i =0;i< speed.size();i++){
+           t = speed.get(i);
+           if(i != pos && ( speed.get(i) >= p) || (p> speed.get(i))){
+               n++;
+           }
+       }
+       return n;
+
+    }

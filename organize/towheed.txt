@@ -1,0 +1,25 @@
+Bismillah
+
+/activitiy /must /slowly /incremental
+/observing: maid,sumiya, ikbhal
+1) washing cloths
+1) clean toilet
+1) cut vegetables
+1) cook food
+1) make chapati
+1) omlet making
+1) electric cooker
+1) rice making
+1) sweeping
+1) grow plants
+1) grow sprouts
+
+--
+/parent ikbhal, sumiya
+no repetting reading, practicing
+tell stories
+tell quotations
+sing songs
+play with them
+allow drawing
+plant trees

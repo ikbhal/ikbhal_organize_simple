@@ -69,3 +69,118 @@ agenda
 $1) hindi /tamil/telugu only books -> hindy book -> local book only
 1) mujhe aaj be yaad hai -> i remeber it till today
 1) josh talks tamil 
+
+/start nov8
+geeksforgeeks
+youtube channel
+https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ
+
+/start nov 11
+agenda 
+10 minutes audible listen
+
+binary search program
+
+audible
+---
+200 rs every month -> 1 credit point
+1credit point -> 1 audio book
+
+if you dont have money, i will give you money?
+ yes
+
+Do you have debit card?
+yes   
+---
+suggest 
+rich dad and poor
+ego is enemy	
+---
+do you have interview
+
+---
+reverse algorith for array rotaiton
+---
+arry rotation 
+[a, b, c, d, e]
+
+rotate to left or right 
+rotate right
+length 5 -> length-1  = 4
+[0, 1, 2, 3, 4]
+[a, b, c, d, e]
+[e, a, b, c, d] //rotate right 1 position
+[d, e, a, b, c] // rorate right 1 position // 2 time from start
+[c, d, e, a, b] // rotate right 1 position
+[0, 1, 2, 3, 4]
+
+rotate 1 position 
+
+temp = a[4] = a[lenght-1]
+
+arr[1] = arr[0]
+arr[2] = arr[1]
+arr[3] = arr[2]
+
+position
+1 = 0
+2 = 1
+3 = 2
+4 = 3
+
+i =3 , n: 5 
+max i = 5-2 = 3 < 4
+i+1 = 4
+
+i+1 = i
+
+
+---
+// n is length array
+int temp = arr[n-1];
+for(i=0;i<n-1;i++){
+	arr[i+1] = arr[i];
+}
+arr[0] = temp;
+
+---
+/start nov 12
+morality video
+
+/start nov 13
+no class
+
+/start nov 14
+invisible people
+website
+
+https://www.youtube.com/user/invisiblepeopletv
+
+
+Your Support Can Create Amazing Change in the Lives of Home
+https://youtu.be/bRtHRIB2szk
+
+https://www.patreon.com/invisiblepeople
+
+---
+Pregnant Homeless Woman Shares about Homelessness in Oakland
+https://www.youtube.com/watch?v=Pl5Xhpj5oAY
+---
+why 
+3 wishes
+---
+Edmonton Homeless Woman Sleeping Outside in Canada's Freezing Cold
+https://www.youtube.com/watch?v=mXqreEOhpKU
+
+--
+how to design website?
+what functionality 1, 2, 3
+you want keep it there
+---
+how to scale it
+---
+how to implement in tamil nadu
+how to implement in india
+---
+how to partner with volunteers
+---
